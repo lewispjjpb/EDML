@@ -1,3 +1,5 @@
+//This is an old project I put together long before I had any real software development training.  I've left this repo up for posterity's sake.  Please feel free to poke around and ask questions, but don't hold any bad coding practices against me!
+
 # EDML
 The purpose of this Module is to assist players in keeping track of all their Elite Dangerous BGS related activities.
 1) About the Elite Dangerous Mission Log (EDML) module:
